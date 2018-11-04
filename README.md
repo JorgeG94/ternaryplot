@@ -11,6 +11,9 @@ Requirements:
 
 Usage: python3 function.py 
 
+The python script will generate two plots, one with labels on each point
+and one without it, for readability.
+
 For help: python3 function.py -h
 
 To insert more points:
@@ -21,4 +24,6 @@ To insert more points:
 		of lines
 	Or: 
 		Use: python3 function.py --compo x
-Where x is the new number of compositions
+		Where x is the new number of compositions
+		
+
